@@ -1,0 +1,2 @@
+# 根目录 requirements.txt，指向 backend 依赖
+-r backend/requirements.txt
