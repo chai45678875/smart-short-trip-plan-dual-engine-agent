@@ -30,7 +30,7 @@
 
 ### 首页 · 双模式切换
 
-![首页界面]((https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/01-homepage.png))
+![首页界面](https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/01-homepage.png)
 
 左侧为 **快速模式**（规则引擎秒级生成）与 **Agent 模式**（Plan-then-Execute 流式规划）的双入口，右侧 Leaflet 地图实时渲染 POI 与路线。
 
