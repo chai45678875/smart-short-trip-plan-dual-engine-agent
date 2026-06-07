@@ -30,31 +30,31 @@
 
 ### 首页 · 双模式切换
 
-![首页界面](docs/screenshots/01-homepage.png)
+![首页界面]((https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/01-homepage.png))
 
 左侧为 **快速模式**（规则引擎秒级生成）与 **Agent 模式**（Plan-then-Execute 流式规划）的双入口，右侧 Leaflet 地图实时渲染 POI 与路线。
 
 ### 场景预设 · 一键填充
 
-![场景预设](docs/screenshots/02-scene-preset.png)
+![场景预设](https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/02-scene-preset.png)
 
 内置 4 类用户画像快捷入口（亲子 / 情侣 / 学生 / 游客），点击后自动填充意图参数，降低输入成本。
 
 ### Agent 模式 · 白盒可视化
 
-![Agent 规划过程](docs/screenshots/03-agent-planning.png)
+![Agent 规划过程](https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/03-agent-planning.png)
 
 Agent 的每一步操作实时展示：调用了哪个 Tool、传了什么参数、耗时多少、是否触发降级。用户全程可见决策链路。
 
 ### Agent 结果 · 时间轴 + 地图
 
-![Agent 结果](docs/screenshots/04-agent-result.png)
+![Agent 结果](https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/04-agent-result.png)
 
 规划完成后输出结构化时间轴，含每个节点的地点、时间、预订状态，并同步渲染到地图。
 
 ### 快速模式 · 秒级路线生成
 
-![快速路线](docs/screenshots/05-quick-route.png)
+![快速路线](https://raw.githubusercontent.com/chai45678875/smart-short-trip-plan-dual-engine-agent/main/smart-travel-planner/docs/screenshots/05-quick-route.png)
 
 规则引擎在 20ms 内完成意图识别 + POI 筛选 + 多因子评分排序，输出可直接执行的路线方案。
 
